@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            prefHeight="200.0" prefWidth="400.0">
+    <children>
+        <!-- Replace these with your real IDs -->
+        <Label layoutX="50.0" layoutY="80.0"
+               text="ID1: 212489942  |  ID2: 325147320"/>
+    </children>
+</AnchorPane>
+
